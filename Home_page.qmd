@@ -1,0 +1,9 @@
+---
+title: "Home"
+---
+
+# Welcome to My Website!
+
+![](./images/IMG_7334%20copy.jpg){width=400px} 
+
+Welcome! I'm Yuan Gao, currently a master's student specializing in Biomedical Informatics & Data Science at Johns Hopkins School of Medicine. My academic journey and passion for technology are dedicated to advancing healthcare through data-driven solutions.

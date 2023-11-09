@@ -1,0 +1,17 @@
+---
+title: "About me"
+---
+
+## Education
+
+-   **2018 - 2020**\
+    **BEng in Food Science and Engineering**\
+    Beijing Technology and Business University, Beijing, China
+
+-   **2020 - 2022**\
+    **BSc (Hons) in Food Science and Technology**\
+    University College Cork, Cork, Ireland
+
+-   **2022 - 2024**\
+    **MSc in Biomedical Informatics & Data Science**\
+    Johns Hopkins University, Baltimore, USA
